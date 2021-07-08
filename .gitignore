@@ -42,3 +42,14 @@ RabbitHeroku/obj/RabbitHeroku.csproj.nuget.dgspec.json
 RabbitHeroku/obj/RabbitHeroku.csproj.nuget.g.props
 RabbitHeroku/obj/RabbitHeroku.csproj.nuget.g.targets
 RabbitHeroku/obj/rider.project.restore.info
+RabbitHeroku/bin/Debug/net5.0/Automatonymous.dll
+RabbitHeroku/bin/Debug/net5.0/GreenPipes.dll
+RabbitHeroku/bin/Debug/net5.0/MassTransit.AspNetCoreIntegration.dll
+RabbitHeroku/bin/Debug/net5.0/MassTransit.dll
+RabbitHeroku/bin/Debug/net5.0/MassTransit.ExtensionsDependencyInjectionIntegration.dll
+RabbitHeroku/bin/Debug/net5.0/MassTransit.RabbitMqTransport.dll
+RabbitHeroku/bin/Debug/net5.0/Microsoft.Bcl.AsyncInterfaces.dll
+RabbitHeroku/bin/Debug/net5.0/NewId.dll
+RabbitHeroku/bin/Debug/net5.0/Newtonsoft.Json.Bson.dll
+RabbitHeroku/bin/Debug/net5.0/Newtonsoft.Json.dll
+RabbitHeroku/bin/Debug/net5.0/RabbitMQ.Client.dll
